@@ -1,8 +1,8 @@
-<img width="914" alt="Tiller Design System with Vite" src="./vite_banner.jpg" align="center">
+<img width="914" alt="Tiller Design System with Vite" src="https://raw.githubusercontent.com/croz-ltd/tiller-starter-vite/master/vite_banner.jpg" align="center">
 <br />
 
 <div align="center" >
-<h1>Getting Started with @tiller-ds/vite-template</h1>
+<h1>Getting Started with tiller-starter-vite</h1>
 The official Tiller template for Vite.<br>
 Designed for<strong>highly scalable</strong> & <strong>performant </strong>Vite applications <br /> 
 emphasizing the
@@ -15,7 +15,7 @@ emphasizing the
 
 <p align="center">
   <a href="https://github.com/croz-ltd/tiller-starter-vite/actions/workflows/build.yml">
-    <img src="https://github.com/croz-ltd/nrich-demo-frontend/actions/workflows/build.yml/badge.svg" alt="CI workflow status" />
+    <img src="https://github.com/croz-ltd/tiller-starter-vite/actions/workflows/build.yml/badge.svg" alt="CI workflow status" />
   </a>
   <a href="https://github.com/croz-ltd/tiller-starter-vite/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" />
@@ -64,4 +64,4 @@ For more information about **Tiller Design System**, please refer to:
 
 The contributions are most welcome. We would appreciate contributions from the community, regardless of their size. 😍
 
-If you're interested, definitely check our [Contributing Guide](./CONTRIBUTING.md).
+If you're interested, definitely check our [Contributing Guide](https://github.com/croz-ltd/tiller-starter-vite/blob/master/CONTRIBUTING.md).
