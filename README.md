@@ -11,8 +11,6 @@ emphasizing the
 
 <br />
 
-[//]: # (//TODO: fix URLs )
-
 <p align="center">
   <a href="https://github.com/croz-ltd/tiller-starter-vite/actions/workflows/build.yml">
     <img src="https://github.com/croz-ltd/tiller-starter-vite/actions/workflows/build.yml/badge.svg" alt="CI workflow status" />
@@ -57,7 +55,7 @@ https://www.figma.com/file/QVaavJ0ZFn1AOsBnTjr7F1/Tiller-Design-System---UI-KIT?
 
 For more information about **Tiller Design System**, please refer to:
 
-- [Getting Started](http://tiller-storybook-development.tos-cloud.lan.croz.net/?path=/docs/introduction--page) – How to use Tiller Components
+- [Getting Started](https://croz-ltd.github.io/tiller/?path=/docs/introduction--page) – How to use Tiller Components
 - [GitHub](https://github.com/croz-ltd/tiller)
 
 ## 🙌 Contributing

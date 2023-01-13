@@ -18,7 +18,7 @@ function App() {
                 framework with <strong>TypeScript</strong>, <strong>Tailwind CSS</strong> visual framework and
                 configured <strong>Tiller Component Library</strong>.</p>
             <a className="text-blue-600 font-bold underline my-8"
-               href="http://tiller-storybook-development.tos-cloud.lan.croz.net/?path=/story/installation--page"
+               href="https://croz-ltd.github.io/tiller/?path=/docs/introduction--page"
                target="_blank" rel="noreferrer">Tiller Storybook</a>
             <Button>Yaaay</Button>
         </div>
