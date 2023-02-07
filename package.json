@@ -8,9 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tiller-ds/core": "1.0.2",
-    "@tiller-ds/theme": "1.0.2",
-    "@tiller-ds/icons": "1.0.2",
+    "@tiller-ds/core": "1.1.0",
+    "@tiller-ds/theme": "1.1.0",
+    "@tiller-ds/icons": "1.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.4"
